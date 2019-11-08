@@ -1,16 +1,12 @@
-USELESS BOX PROJECT
+# USELESS BOX PROJECT
 Lucy Gray, Johnny Krosby
 
-USELESS BOX DESIGN OVERVIEW
-Objective:
-Requirements/Project Description:
-Process:
-PLANNING
-
 
 USELESS BOX DESIGN OVERVIEW
+
 Objective:
   Make box with switch that activates a hidden mechanism that turns the switch off
+
 Requirements/Project Description:
 - Build a device with at least one panel-mounted SPDT switch on it
 - When the switch is flipped, a servo is activated that device flips the switch back
@@ -28,6 +24,7 @@ Requirements/Project Description:
 
 - Planning
 - GitHub
+
 Process:
 - Identify goals, resources, and constraints
 - Brainstorm solutions
@@ -60,7 +57,15 @@ Software:
 - Arduino
 - Fritzing
 Hardware:
-
+- 9V Battery
+- Battery Pack
+- Arduino Uno
+- Protoboard
+- Switch
+- Micro servo
+Acrylic
+Wiring
+Tools
 
 
 ISSUES AND SOLUTIONS
