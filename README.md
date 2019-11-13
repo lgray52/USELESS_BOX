@@ -41,6 +41,7 @@ Process:
 PLANNING
 
 Plan:
+
   Brainstorm
   
   Design in Solidworks
@@ -56,6 +57,7 @@ Plan:
   Test & fix issues
 
 Jobs:
+
  - Lucy:
    - SolidWorks
  -  Johnny
