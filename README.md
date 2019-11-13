@@ -42,26 +42,40 @@ PLANNING
 
 Plan:
   Brainstorm
+  
   Design in Solidworks
+  
   Code & wire (breadboard)
+  
   Transfer wiring to protoboard
+  
   Laser cutting
+  
   Construction
+  
   Test & fix issues
 
 Jobs:
+
   Lucy:
+  
     SolidWorks
+    
   Johnny:
+  
     Code
+    
     Wiring
 
 Materials:
+
   Software:
+  
     SolidWorks
     Arduino
     Fritzing
   Hardware:
+  
     9V Battery
     Battery Pack
     Arduino Uno
