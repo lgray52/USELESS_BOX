@@ -56,35 +56,26 @@ Plan:
   Test & fix issues
 
 Jobs:
-
-  Lucy:
-  
-    SolidWorks
-    
-  Johnny:
-  
-    Code
-    
-    Wiring
-
+ - Lucy:
+   - SolidWorks
+ -  Johnny
+   - Code
+   - Wiring
 Materials:
-
-  Software:
-  
-    SolidWorks
-    Arduino
-    Fritzing
+ - Software:  
+   - SolidWorks
+   - Arduino
+   - Fritzing
   Hardware:
-  
-    9V Battery
-    Battery Pack
-    Arduino Uno
-    Protoboard
-    Switch
-    Micro servo
-    Acrylic
-    Wiring
-    Tools
+   - 9V Battery
+   - Battery Pack
+   - Arduino Uno
+   - Protoboard
+   - Switch
+   - Micro servo
+   - Acrylic
+   - Wiring
+   - Tools
 
 ISSUES AND SOLUTIONS
 
