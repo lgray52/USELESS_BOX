@@ -40,6 +40,7 @@ Process:
 
 PLANNING
 
+
 Plan:
 
   Brainstorm
@@ -55,6 +56,7 @@ Plan:
   Construction
   
   Test & fix issues
+
 
 Jobs:
 
