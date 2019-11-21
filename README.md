@@ -40,13 +40,21 @@ Process:
 
 PLANNING
 
+
 Plan:
+  
   Brainstorm
+  
   Design in Solidworks
+  
   Code & wire (breadboard)
+  
   Transfer wiring to protoboard
+  
   Laser cutting
+  
   Construction
+  
   Test & fix issues
 
 
