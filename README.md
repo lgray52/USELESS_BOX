@@ -64,15 +64,13 @@ Schedule:
 
 11/22/19 - complete wiring on breadboard
 
-11/27/19 - Complete SolidWorks/Complete wiring of servo, on-off light, switch, and speaker on proto-board.
+12/18/19 - Complete SolidWorks/Complete wiring of servo, on-off light, switch, and speaker on proto-board.
 
-12/4/19 - first (and hopefully last) attempt at laser cutting/complete coding and test fully
+1/10/20 - first (and hopefully last) attempt at laser cutting/complete coding and test fully
 
-12/18/19 - construction
+1/13 - 1/17/20 - construction
 
-12/20/19 - First draft of design
-
-1/15/19 -  fix all bugs and final design
+1/20/20 -  fix all bugs and final design
 
 
 Jobs:
